@@ -281,7 +281,3 @@ coord_polar(theta = "y")
 # add a second line from the github.com
 
 
-
-# create a merge conflict local
-# create a second commment from local for a merge conflict
-
