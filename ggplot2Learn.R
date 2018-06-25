@@ -278,6 +278,4 @@ coord_polar(theta = "y")
 
 
 # try adding this new line
-# add a second line from the github.com
-# last test
-# last test 2
+
